@@ -1,0 +1,55 @@
+img {
+  float: right;
+  height: 250px;
+  padding-left: 50px;
+}
+
+.jumbotron {
+  margin: 20px;
+}
+
+.myname {
+  font-size: 60px;
+  font-family: 'Exo', sans-serif;
+  text-align: center;
+  color: snow;
+  padding-top: 50px;
+  background-color: silver;
+}
+
+h2 {
+  text-align: center;
+  color: green;
+  background-color: snow;
+  font-family: 'Exo', sans-serif;
+}
+
+.myfirst {
+  color: red;
+  font-family: 'Exo', sans-serif;
+}
+
+body {
+  background-color: lightgrey;
+  padding-bottom: 50px;
+}
+
+.mysecond {
+  color: red;
+  font-family: 'Exo', sans-serif;
+}
+
+.mythird {
+  text-align: left;
+}
+
+.container {
+  float: center;
+  padding-left: :100px;
+  background-color: snow;
+  font-family: inherit;
+}
+
+h3 {
+  font-family: 'Exo', sans-serif;
+}
