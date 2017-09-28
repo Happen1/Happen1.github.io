@@ -1,8 +1,8 @@
-# {Ohene-Portfolio: OHGA Agency}
+# Ohene-Portfolio: OHGA Agency
 
-#### {Brief description of application}, {8th September, 2017}
+#### Agency that connects the needy and the philanthropist. 8th September, 2017}
 
-#### By **{Ohene-Gyan Bright}**
+#### By **Ohene-Gyan Bright**
 
 ## Description
 
